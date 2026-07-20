@@ -37,6 +37,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
