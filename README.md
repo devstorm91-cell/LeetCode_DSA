@@ -27,3 +27,19 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | 🟡 Medium | 0 | 150 |
 | 🔴 Hard | 0 | 50 |
 | **Total** | **0** | **300** |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+<!---LeetCode Topics End-->
