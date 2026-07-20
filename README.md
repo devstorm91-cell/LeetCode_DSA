@@ -44,9 +44,22 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
+## Hash Table
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
+## Design
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
