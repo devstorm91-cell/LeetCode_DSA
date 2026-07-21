@@ -35,6 +35,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
 | ------- |
@@ -46,10 +47,12 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Simulation
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +65,8 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
