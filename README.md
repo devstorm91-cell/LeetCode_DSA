@@ -33,6 +33,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
@@ -80,4 +81,8 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
