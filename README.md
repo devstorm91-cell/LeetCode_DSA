@@ -35,6 +35,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -59,6 +60,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 | [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 ## Design
 |  |
@@ -85,4 +87,8 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
