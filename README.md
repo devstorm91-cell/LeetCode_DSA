@@ -96,4 +96,9 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
