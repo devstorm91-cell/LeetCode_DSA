@@ -52,6 +52,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2487-remove-nodes-from-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -98,8 +99,17 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0237-delete-node-in-a-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
