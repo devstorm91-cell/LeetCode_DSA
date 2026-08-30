@@ -65,6 +65,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Ordered Set
@@ -91,4 +92,8 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
