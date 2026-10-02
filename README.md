@@ -50,6 +50,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
@@ -122,6 +123,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0104-maximum-depth-of-binary-tree](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,6 +137,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0104-maximum-depth-of-binary-tree](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -142,4 +145,5 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0104-maximum-depth-of-binary-tree](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
