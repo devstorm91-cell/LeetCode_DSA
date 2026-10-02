@@ -41,6 +41,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
 | [1046-last-stone-weight](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1046-last-stone-weight) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1670-design-front-middle-back-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0707-design-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1670-design-front-middle-back-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Ordered Set
 |  |
 | ------- |
@@ -92,11 +94,13 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0232-implement-queue-using-stacks](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0641-design-circular-deque) |
+| [1670-design-front-middle-back-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
+| [1670-design-front-middle-back-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1670-design-front-middle-back-queue) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -117,6 +121,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0641-design-circular-deque](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1670-design-front-middle-back-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -175,4 +180,8 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1046-last-stone-weight) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
