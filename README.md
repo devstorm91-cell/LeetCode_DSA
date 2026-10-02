@@ -43,6 +43,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1670-design-front-middle-back-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
@@ -134,6 +136,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 ## Monotonic Stack
 |  |
 | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
