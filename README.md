@@ -39,6 +39,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0622-design-circular-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0641-design-circular-deque) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
+| [1046-last-stone-weight](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1046-last-stone-weight) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Math
@@ -170,4 +171,8 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0700-search-in-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
