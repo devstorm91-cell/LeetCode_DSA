@@ -48,6 +48,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
@@ -115,6 +116,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -123,5 +125,10 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
