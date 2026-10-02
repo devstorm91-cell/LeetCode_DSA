@@ -36,6 +36,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0217-contains-duplicate) |
+| [0622-design-circular-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0622-design-circular-queue) |
 | [0946-validate-stack-sequences](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0946-validate-stack-sequences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -73,6 +74,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0895-maximum-frequency-stack) |
 | [1352-product-of-the-last-k-numbers](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1352-product-of-the-last-k-numbers) |
@@ -85,6 +87,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
@@ -106,6 +109,7 @@ I use this repository to build consistent coding habits. Here is a rough breakdo
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/devstorm91-cell/LeetCode_DSA/tree/master/2487-remove-nodes-from-linked-list) |
